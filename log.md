@@ -20,3 +20,11 @@ Stephen Rule 2:  Coding I do for my job will not count but extra stuff I do duri
 **Thoughts:** It is amazing how long non coding things like finding images can take
 
 **Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
+
+### Day 2: January 6, 2018 
+
+**Todays Progress**: worked on some javascript to animage volunteer page
+
+**Thoughts:** So many javascript libraries
+
+**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
