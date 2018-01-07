@@ -28,3 +28,11 @@ Stephen Rule 2:  Coding I do for my job will not count but extra stuff I do duri
 **Thoughts:** So many javascript libraries
 
 **Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
+
+### Day 3: January 7, 2018 
+
+**Todays Progress**: Did some basic Java Code to remind myself on how
+
+**Thoughts:** good to get back to strickly type
+
+**Link to work:** NONE
