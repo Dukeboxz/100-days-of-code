@@ -36,3 +36,11 @@ Stephen Rule 2:  Coding I do for my job will not count but extra stuff I do duri
 **Thoughts:** good to get back to strickly type
 
 **Link to work:** NONE
+
+### Day 4: January 8, 2018 
+
+**Todays Progress**: Back to the website today but unfortunatley got stuck a bit trying to refer to text from elsewhere
+
+**Thoughts:**:  somedays you get the bear somedays it gets you
+
+**Link to work:** NONE
