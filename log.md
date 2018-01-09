@@ -1,7 +1,47 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 4, 2018
+### Day 5: January 9, 2018 
 
+**Todays Progress**: continued to work on website mostly on pages javascript and css in creating the page dynamically
+
+**Thoughts:** Although not a lot acomplished I am enjoying the creating process
+
+**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
+
+### Day 4: January 8, 2018 
+
+**Todays Progress**: Back to the website today but unfortunatley got stuck a bit trying to refer to text from elsewhere
+
+**Thoughts:**:  somedays you get the bear somedays it gets you
+
+**Link to work:** NONE
+
+
+
+### Day 3: January 7, 2018 
+
+**Todays Progress**: Did some basic Java Code to remind myself on how
+
+**Thoughts:** good to get back to strickly type
+
+**Link to work:** NONE
+
+### Day 2: January 6, 2018 
+
+**Todays Progress**: worked on some javascript to animage volunteer page
+
+**Thoughts:** So many javascript libraries
+
+**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
+
+### Day 1: January 5, 2018 
+
+**Todays Progress**: Started on a basic volunteer page still have a lot of work to do
+
+**Thoughts:** It is amazing how long non coding things like finding images can take
+
+**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
+### Day 0: January 4, 2018
 
 **Today's Progress**: Decided to start 100 days of code .
 
@@ -13,34 +53,10 @@ Stephen Rule 2:  Coding I do for my job will not count but extra stuff I do duri
 
 **Link to work:** [Nothing Yet](http://www.example.com)
 
-### Day 1: January 5, 2018 
 
-**Todays Progress**: Started on a basic volunteer page still have a lot of work to do
 
-**Thoughts:** It is amazing how long non coding things like finding images can take
 
-**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
 
-### Day 2: January 6, 2018 
 
-**Todays Progress**: worked on some javascript to animage volunteer page
 
-**Thoughts:** So many javascript libraries
 
-**Link to work:**[Volunteer Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteer.html)
-
-### Day 3: January 7, 2018 
-
-**Todays Progress**: Did some basic Java Code to remind myself on how
-
-**Thoughts:** good to get back to strickly type
-
-**Link to work:** NONE
-
-### Day 4: January 8, 2018 
-
-**Todays Progress**: Back to the website today but unfortunatley got stuck a bit trying to refer to text from elsewhere
-
-**Thoughts:**:  somedays you get the bear somedays it gets you
-
-**Link to work:** NONE
