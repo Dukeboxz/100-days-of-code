@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 10, 2018 
+
+**Todays Progress**: Today it was working with the google blogger API to do a httpxml request and get theblog post to display on the website.  Did not get it finshed but got pretty close
+
+**Thoughts:** Although not a lot acomplished I am enjoying the creating process
+
+**Link to work:**[The repo](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master)
+
 ### Day 5: January 9, 2018 
 
 **Todays Progress**: continued to work on website mostly on pages javascript and css in creating the page dynamically
