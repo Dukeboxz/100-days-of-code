@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 12, 2018 
+
+**Todays Progress**: As I thought Fridays would be the biggest challenge and I was right have being trying to code while doing other things so have only managed a few changes on the webpage
+
+**Thoughts:** none too tired
+
+**Link to work:**[Community Garden Page but nothing new from yesterday](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 7: January 11, 2018 
 
 **Todays Progress**: A good day all round today I got the blog and the twitter feed to display on the website.  Next is to make those refresh at a certain rate and look to embed events from google calendar and facebook posts
