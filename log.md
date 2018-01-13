@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 13, 2018 
+
+**Todays Progress**: Did a bit of coding but was mostly just trying to get things to look right using CSS.  I have started reading the Google Calendar API which may be a bit harder than the blogger API to get info from 
+
+**Thoughts:** Had a meeting with people today about continuing to develop a tech club and tech meetup in Chesterfield so am keeping up the networking as well.  Looked at the course that work is sending me on and it turns out they will expect a basic knowledge of visual studio so I am going to have to spend a bit more time getting to know that paricular IDE.
+
+**Link to work:**[Community Garden Page but nothing new from yesterday](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 8: January 12, 2018 
 
 **Todays Progress**: As I thought Fridays would be the biggest challenge and I was right have being trying to code while doing other things so have only managed a few changes on the webpage
