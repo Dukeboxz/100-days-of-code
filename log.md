@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 13, 2018 
+
+**Todays Progress**: Implemented more API to get facebook running on the website.  Still looking to get information from Google Calendars in a way that I can then manipulate them
+
+**Thoughts:** Make a web server how?
+
+**Link to work:**[Community Garden Page but nothing new from yesterday](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 9: January 13, 2018 
 
 **Todays Progress**: Did a bit of coding but was mostly just trying to get things to look right using CSS.  I have started reading the Google Calendar API which may be a bit harder than the blogger API to get info from 
