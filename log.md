@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13, 2018 
+
+**Todays Progress**: Did more work on the Community Garden website including adding  a video and started to add a image map to make different parts of the site clickable
+**Thoughts:** I am enjoying it but it seems to be going very slowly
+
+**Link to work:**[Community Garden web Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 10: January 13, 2018 
 
 **Todays Progress**: Implemented more API to get facebook running on the website.  Still looking to get information from Google Calendars in a way that I can then manipulate them
