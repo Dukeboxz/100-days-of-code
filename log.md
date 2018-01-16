@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 16, 2018 
+
+**Todays Progress**: Interesting coding today I did something a bit different went to a local tech meet up and did some coding on Sonic Pi on a raspberry Pi.  Interesting getting a really different language but it was let down a little by my lack of musical ability
+
+**Thoughts:** Not too much today
+
+**Link to work:**[Community Garden web Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 11: January 15, 2018 
 
 **Todays Progress**: Did more work on the Community Garden website including adding  a video and started to add a image map to make different parts of the site clickable
