@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 17, 2018 
+
+**Todays Progress**: Back to working on the website today going to show the outline to the community group tomorrow to see if they like my ideas 
+**Thoughts:** Still slow going I thought I could code quicker than this
+
+**Link to work:**[Community Garden web Page](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/communityGardenFrontPage.html)
+
 ### Day 12: January 16, 2018 
 
 **Todays Progress**: Interesting coding today I did something a bit different went to a local tech meet up and did some coding on Sonic Pi on a raspberry Pi.  Interesting getting a really different language but it was let down a little by my lack of musical ability
