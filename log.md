@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 18, 2018 
+
+**Todays Progress**: Bit of a token effort today.  As soon as I was back from work I was out at a community meeting.  Got home and did a introduction to Python to remind myself of the syntax.  The code club I volunteer at uses it as a coding of minecraft so was refreshing myself on that.  Will look to expand on that an write longer code to do impressive things in minecraft for raspberry pi.
+
+**Thoughts:** which programming languages would get together and decide once and for all if true and false start with capitals or not
+
+**Link to work:**
+
 ### Day 13: January 17, 2018 
 
 **Todays Progress**: Back to working on the website today going to show the outline to the community group tomorrow to see if they like my ideas 
