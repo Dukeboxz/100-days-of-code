@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 19, 2018 
+
+**Todays Progress**: Today it was back to the website and learning Javascript libraries.  Today I was learning JQuery which people say makes things easier to code.  I can see it use in making animation on website so am going to try it.  Not much to show for it though to day was more of a learning day.
+
+**Thoughts:** Getting increasing concerned about how slow I am going.  Maybe I need to make mine 200 days of code to achieve what other people can do in 100.
+
 ### Day 14: January 18, 2018 
 
 **Todays Progress**: Bit of a token effort today.  As soon as I was back from work I was out at a community meeting.  Got home and did a introduction to Python to remind myself of the syntax.  The code club I volunteer at uses it as a coding of minecraft so was refreshing myself on that.  Will look to expand on that an write longer code to do impressive things in minecraft for raspberry pi.
