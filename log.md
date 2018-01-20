@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 19, 2018 
+
+**Todays Progress**: Well today was intense, since last year I have been helping set up a code club for kids age 7 - 12.  Today we had 27 kids turn up which was great but so much work.  While the code they are doing is not challenging I do spend a lot of time explaining key programming concepts to them so I am counting it as part of my coding for today.  After that I was a bit brain dead so have done a simple UI design using the tools in visual studio.  It is something that was needed for the c# course I am going on so I thought I would get it out the way.
+**Thoughts:** Loads of project idea have come out of the code club for what I could do.  First 2 that spring to mind an achievment monitoring service or doing my own simple gaem
+
+**Link to work:**[Monkey Park Tech Club ](https://www.facebook.com/pg/chesterfieldmonkeypark)
+
 ### Day 15: January 19, 2018 
 
 **Todays Progress**: Today it was back to the website and learning Javascript libraries.  Today I was learning JQuery which people say makes things easier to code.  I can see it use in making animation on website so am going to try it.  Not much to show for it though to day was more of a learning day.
