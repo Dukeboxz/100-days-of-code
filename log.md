@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 16: January 19, 2018 
+### Day 17: January 21, 2018 
+
+**Todays Progress**: Today I have typed away at the keyboard but have not managed to make much work.  This I think is a large part due to the fact that I have been struck down by lergie(Common Cold).  This has turned my head to wool and made me not want to do anything much.  Hopefully will feel better tomorrow.
+**Thoughts:** I want my bed
+**Link to work:**[Volunteer FAQ slide down with little CSS ](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteerFAQ.html)
+
+### Day 16: January 20, 2018 
 
 **Todays Progress**: Well today was intense, since last year I have been helping set up a code club for kids age 7 - 12.  Today we had 27 kids turn up which was great but so much work.  While the code they are doing is not challenging I do spend a lot of time explaining key programming concepts to them so I am counting it as part of my coding for today.  After that I was a bit brain dead so have done a simple UI design using the tools in visual studio.  It is something that was needed for the c# course I am going on so I thought I would get it out the way.
 **Thoughts:** Loads of project idea have come out of the code club for what I could do.  First 2 that spring to mind an achievment monitoring service or doing my own simple gaem
