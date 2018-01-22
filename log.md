@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 22, 2018 
+
+**Todays Progress**: More work on website nothing really new just implementing what I have learned so far.
+**Thoughts:** What have I learned?
+**Link to work:**[Volunteer FAQ slide down with little CSS ](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteerFAQ.html)
+
+
 ### Day 17: January 21, 2018 
 
 **Todays Progress**: Today I have typed away at the keyboard but have not managed to make much work.  This I think is a large part due to the fact that I have been struck down by lergie(Common Cold).  This has turned my head to wool and made me not want to do anything much.  Hopefully will feel better tomorrow.
