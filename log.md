@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 23, 2018 
+
+**Todays Progress**:Progress painfully slow due to illness and other commitments.  Still doing my hour but making so many silly mistakes I think I am going backwards some times.  Not helped with being stuck on a problem at work as well.  
+**Thoughts:** Need to work on my posture back is really sore.
+**Link to work:**[Volunteer FAQ slide down with little CSS ](https://github.com/Dukeboxz/Inspire-Community-Website/blob/master/volunteerFAQ.html)
+
 ### Day 18: January 22, 2018 
 
 **Todays Progress**: More work on website nothing really new just implementing what I have learned so far.
