@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 25, 2018 
+
+**Todays Progress**:So today I have been doing more web coding and working with date and times in javascript.  This is something I have done in Java before but not something I have done in javascript.  So far so easy but in Java I had a DateTime library that gave days between dates not discovered anything like that yet in javascript.  The eagle eyed people may have noticed that I have missed a day.  Oops unfortunatley being late from work and then going out to a club till late meant that I just did not have time sorry wont happen agaiin promise.
+**Thoughts:** Looked at Azure to host static website should not be too hard if I get them to a certain state.
+
 ### Day 19: January 23, 2018 
 
 **Todays Progress**:Progress painfully slow due to illness and other commitments.  Still doing my hour but making so many silly mistakes I think I am going backwards some times.  Not helped with being stuck on a problem at work as well.  
