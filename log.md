@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 26, 2018 
+
+**Todays Progress**:This is the problem with tryig to do coding when you are tired.  Not a lot of progress tonight was changing my get date of next meeting function to show all future dates and was wondering why it was not working.  After some internet searching saw that it was a rookie mistake I as declaring the array in the loop so it was getting reinitalised each time.  Idiot.
+**Thoughts:** Idiot Idiot IDiot
+
+
 ### Day 20: January 25, 2018 
 
 **Todays Progress**:So today I have been doing more web coding and working with date and times in javascript.  This is something I have done in Java before but not something I have done in javascript.  So far so easy but in Java I had a DateTime library that gave days between dates not discovered anything like that yet in javascript.  The eagle eyed people may have noticed that I have missed a day.  Oops unfortunatley being late from work and then going out to a club till late meant that I just did not have time sorry wont happen agaiin promise.
