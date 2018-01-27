@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 27, 2018 
+
+**Todays Progress**:Back on track so got a lot more work done on websites today.  Nothing really groundbreaking just implmenting the techniques and libraries that I have learned.  Hopefully will be able to publish the sites publicly soon.
+**Thoughts:** Still dont feel I have mastered CSS yet
+
 ### Day 21: January 26, 2018 
 
 **Todays Progress**:This is the problem with tryig to do coding when you are tired.  Not a lot of progress tonight was changing my get date of next meeting function to show all future dates and was wondering why it was not working.  After some internet searching saw that it was a rookie mistake I as declaring the array in the loop so it was getting reinitalised each time.  Idiot.
