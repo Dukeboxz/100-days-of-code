@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 28, 2018 
+
+**Todays Progress**:Another page on the webpage down 
+**Thoughts:** Found that listening to zen mediation music helps me conentrate
+
+**Link To Work:** [simple web page] (https://github.com/Dukeboxz/MonkeyParkTechClubWebsite/blob/master/clubOrgnaisers.html) 
+
 ### Day 22: January 27, 2018 
 
 **Todays Progress**:Back on track so got a lot more work done on websites today.  Nothing really groundbreaking just implmenting the techniques and libraries that I have learned.  Hopefully will be able to publish the sites publicly soon.
