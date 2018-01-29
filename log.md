@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 29, 2018 
+
+**Todays Progress**:Really putting the work in to get the first webpage finished hoping to go live tomorrow
+
+
+**Link To Work:** [simple web page] (https://github.com/Dukeboxz/MonkeyParkTechClubWebsite/blob/master/clubOrgnaisers.html) 
+
+
 ### Day 23: January 28, 2018 
 
 **Todays Progress**:Another page on the webpage down 
