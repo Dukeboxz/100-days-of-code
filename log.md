@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 30, 2018 
+
+**Todays Progress**:so fittingly on the 25 day of this challenge I have completed a website and uploaded it on the cloud for all to see.
+My thought on completing 25 days is I have learned a bit about web development and styling.  My next project will be to add server functionality to the webpage.  I am also going to start moving on to app development since that is something I have been interested in.  Will have to do a lot more learning on that.  
+
+
+**Link To Work:** [Tech Club Webpage] (https://techclubwebsite.azurewebsites.net) 
+
+
 ### Day 24: January 29, 2018 
 
 **Todays Progress**:Really putting the work in to get the first webpage finished hoping to go live tomorrow
