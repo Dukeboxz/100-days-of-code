@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25.5: February 2, 2018 
+
+**Todays Progress**:Disasters all round I am afraid that have stopped this endevour cold.  My partner was taken into hospital with stomach complaints and determined she has something wrong with bowel.  Have been at hospital a lot but she is not home.  This has meant coding at night has been suspended for current time.  
+
+
 ### Day 25: January 30, 2018 
 
 **Todays Progress**:so fittingly on the 25 day of this challenge I have completed a website and uploaded it on the cloud for all to see.
