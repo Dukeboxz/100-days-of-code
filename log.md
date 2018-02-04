@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 4, 2018 
+
+**Todays Progress**: Ok things are calming down a little my partner is on the road to recovery and I can get back on track.  I have given myself a small project to get back into the swing of things which is the creation of a caculator in Javascript.  Did a bit tonight and hoping I will be finished in 3 days tops.  So I have lost a few days but hopefully can get back to it.  
+
 ### Day 25.5: February 2, 2018 
 
 **Todays Progress**:Disasters all round I am afraid that have stopped this endevour cold.  My partner was taken into hospital with stomach complaints and determined she has something wrong with bowel.  Have been at hospital a lot but she is not home.  This has meant coding at night has been suspended for current time.  
