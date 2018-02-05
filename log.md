@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 5, 2018 
+
+**Todays Progress**:Slowly getting back into it got most of the functionality of the calculator done today.  Just need to get all the positioning of the button sorted and a good way of dealing with error in input by the user. 
 ### Day 26: February 4, 2018 
 
 **Todays Progress**: Ok things are calming down a little my partner is on the road to recovery and I can get back on track.  I have given myself a small project to get back into the swing of things which is the creation of a caculator in Javascript.  Did a bit tonight and hoping I will be finished in 3 days tops.  So I have lost a few days but hopefully can get back to it.  
