@@ -1,8 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 6, 2018 
+
+**Todays Progress**:  Today was a bit more reading and a bit less coding.  I got the rest of my calulator done apart from a bit of positioning apart from that I have been having another crack at getting events from a google calendar.  After a bit of reading I think I have worked out how it could be done now I am just setting up things to do it.  My quest to get a webserver set up failed miserably installed sql server but could not connect to it and cannot get visual studio to connect to a debug broswer. Oh well It eh.
+
 ### Day 27: February 5, 2018 
 
 **Todays Progress**:Slowly getting back into it got most of the functionality of the calculator done today.  Just need to get all the positioning of the button sorted and a good way of dealing with error in input by the user. 
+
 ### Day 26: February 4, 2018 
 
 **Todays Progress**: Ok things are calming down a little my partner is on the road to recovery and I can get back on track.  I have given myself a small project to get back into the swing of things which is the creation of a caculator in Javascript.  Did a bit tonight and hoping I will be finished in 3 days tops.  So I have lost a few days but hopefully can get back to it.  
