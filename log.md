@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 8, 2018 
+
+**Todays Progress**: As usual I have missed a day due to board gaming and have not really made up for it today.  Was looking to do a call to a google calendar so that I could display the events the way I wanted to unfortunatley for what ever reason the call seem to be conflicting with something else in the website.  Too tired to do any major debugging so leaving it until tomorrow.
+
 ### Day 28: February 6, 2018 
 
 **Todays Progress**:  Today was a bit more reading and a bit less coding.  I got the rest of my calulator done apart from a bit of positioning apart from that I have been having another crack at getting events from a google calendar.  After a bit of reading I think I have worked out how it could be done now I am just setting up things to do it.  My quest to get a webserver set up failed miserably installed sql server but could not connect to it and cannot get visual studio to connect to a debug broswer. Oh well It eh.
