@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 29.5 : February 15, 2018 
+
+Not a lot been happening but my excuse it that work has sent me to London to learn C#.  After a days learning a different language in a hot room has made me not really want to do an hour of code.  I will be restarting the 100 day of code when I get back to a more normal routine.  I am aware that I am having more restarts recently then an olympic 100m final but i will endevour to get more of a regualar schedule. 
+
 ### Day 29: February 8, 2018 
 
 **Todays Progress**: As usual I have missed a day due to board gaming and have not really made up for it today.  Was looking to do a call to a google calendar so that I could display the events the way I wanted to unfortunatley for what ever reason the call seem to be conflicting with something else in the website.  Too tired to do any major debugging so leaving it until tomorrow.
